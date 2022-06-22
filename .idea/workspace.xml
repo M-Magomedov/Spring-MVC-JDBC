@@ -10,15 +10,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7de3d899-3c31-4969-8e75-f09a7e6a1625" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/add.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/delete.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/details.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/update.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/users.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/deployment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tomcat.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/eb62284d-a0dd-446f-bdf1-2ea915c452f4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/eb62284d-a0dd-446f-bdf1-2ea915c452f4/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/eb62284d-a0dd-446f-bdf1-2ea915c452f4/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/eb62284d-a0dd-446f-bdf1-2ea915c452f4/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/eb62284d-a0dd-446f-bdf1-2ea915c452f4/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/users.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +63,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "F:/Проекты Java/Мои проекты/SpringMVC-JDBC",
+    "last_opened_file_path": "F:/Проекты Java/проекты с GitHub/CRUD",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -173,9 +177,7 @@
       </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="SpringMVC-JDBC:war" />
-        </option>
+        <option name="BuildArtifacts" enabled="false" />
       </method>
     </configuration>
   </component>
@@ -188,7 +190,8 @@
       <option name="presentableId" value="Default" />
       <updated>1655923391328</updated>
       <workItem from="1655923394113" duration="6040000" />
-      <workItem from="1655929613977" duration="2711000" />
+      <workItem from="1655929613977" duration="3348000" />
+      <workItem from="1655934030097" duration="2112000" />
     </task>
     <servers />
   </component>
